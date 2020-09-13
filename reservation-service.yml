@@ -1,5 +1,5 @@
 com:
-  message: Find reservations on the new welcome page
+  message: We are currently full on capacity
 management:
   endpoints:
     web:
