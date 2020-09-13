@@ -1,2 +1,7 @@
 com:
   message: Find reservations on the new welcome page
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, refresh, configprops
