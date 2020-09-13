@@ -1,5 +1,5 @@
 com:
-  message: We are currently full on capacity
+  message: We are currently full on capacity on reservations
 management:
   endpoints:
     web:
