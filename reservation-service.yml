@@ -1,5 +1,5 @@
 com:
-  message: Sorry, We are currently full on capacity. 
+  message: Sorry, We are currently full on capacity. Try again next time. 
 management:
   endpoints:
     web:
